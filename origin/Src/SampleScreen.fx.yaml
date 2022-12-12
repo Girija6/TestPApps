@@ -1,0 +1,11 @@
+SampleScreen As screen:
+
+    Label1 As label:
+        Height: =70
+        Size: =34
+        Text: ="Testing"
+        Width: =560
+        X: =57
+        Y: =114
+        ZIndex: =1
+
