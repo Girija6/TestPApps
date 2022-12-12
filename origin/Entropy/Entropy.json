@@ -79,7 +79,7 @@
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "12/12/2022 06:16:19",
+  "HeaderLastSavedDateTimeUTC": "12/12/2022 06:16:40",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {
     "53bd9978-d25b-4ba1-8e50-8c45c3f2367b": "\"/providers/microsoft.powerapps/apis/shared_excel/connections/e541b16114b04416b78251374a012caf\"",
@@ -157,7 +157,7 @@
     "Image_DataCard2": 47,
     "Image1": 11,
     "Image2": 50,
-    "Label1": 0,
+    "Label1": 68,
     "LblAppName1": 1,
     "LblAppName2": 20,
     "LblAppName3": 40,
